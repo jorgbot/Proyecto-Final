@@ -98,7 +98,7 @@ public class items implements IVisualizable {
                 categoria + ",\nprecio: " + precio + ",\nalquiler: " + alquiler; 
     }
     
-    public void marcarVisto(String tvisualizado){
+    public void marcarAlquiler(String talquiler){
     this.alquiler = true;
     this.talquiler = "Visualizado elalquiler: " + talquiler;
     }

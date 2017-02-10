@@ -10,5 +10,7 @@ package items;
  * @author SENA
  */
 interface IVisulizable {
-    
+    public void marcarAlquiler(String talquiler);
+    public boolean esAlquiler();
+    public String tiempoAlquiler();
 }
