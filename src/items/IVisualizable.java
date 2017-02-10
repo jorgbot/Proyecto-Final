@@ -3,19 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package proyecto.pkgfinal;
+package items;
 
 /**
  *
  * @author SENA
  */
-public class ProyectoFinal {
-
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        // TODO code application logic here
-    }
+interface IVisualizable {
     
 }
